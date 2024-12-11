@@ -23,5 +23,5 @@ click me : https://jdtkd.github.io/MasterCardTaimwind/
 Maintenant, on va ajouter tous les détails qui transforment notre carte de "fade" en une magnifique carte de crédit avec laquelle on a envie de payer.
 
 
- <img width="437" alt="PHASE 3" src="https://github.com/user-attachments/assets/cd57c1b1-05b4-4856-aa51-0556b377bcb7" />
+<img width="491" alt="Capture d’écran 2024-12-11 165149" src="https://github.com/user-attachments/assets/aabff1bf-b224-42a1-9902-6c8d55c0e7d8" />
 
