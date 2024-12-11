@@ -1,7 +1,7 @@
 ﻿# TaiwindCss-Projets
  creation d'une Master Card avec  le framework TailwindCss sans utilise de Css simple sur un seul fichier .html
  
- https://jdtkd.github.io/MasterCardTaimwind/
+click me : https://jdtkd.github.io/MasterCardTaimwind/
 
  
 
